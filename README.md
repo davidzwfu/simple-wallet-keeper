@@ -2,7 +2,7 @@
 
 A simple version of a crypto wallet app such as Metamask or Coinbase. 
 
-Generates wallets using `ethers.js` and stores them securely (encrypted) in `localStorage`. Private keys are encrypted with the user's supplied passcode, which is not stored.
+Generates wallets using `ethers.js` and stores them securely (encrypted) in `localStorage`. Private keys are encrypted with the user's supplied passcode, which is never stored.
 
 ## Available Scripts
 
